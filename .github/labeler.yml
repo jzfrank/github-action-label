@@ -3,3 +3,6 @@ workflows:
 
 schema-change:
   - "abacus/prisma/schema.prisma"
+
+README-change:
+  - "README.md"
